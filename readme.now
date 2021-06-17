@@ -1,0 +1,41 @@
+           ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+    ÄÄÄÄÄÄÄ´      Therions Archive Converter version 1.80SE       ÃÄÄÄÄÄÄÄ
+           ³                                                      ³
+    ÄÄÄÄÄÄÄ´ (c) 1992-1996 Nocturnal Productions, Copenhagen, DK. ÃÄÄÄÄÄÄÄ
+           ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+                                  IMPORTANT
+
+
+This directory contains the full sources for the entire TAC 1.80 Special
+Edition package.
+
+Legal stuff first:
+
+     Everything belonging to TAC, be it executables or source code, is
+     (C)opyright 1992-1996 Nocturnal Productions. You are allowed to
+     distribute the included archives as You wish, but You are NOT
+     allowed to distribute recompiled or modified versions of ANY of
+     the sources or programs related to TAC. You are allowed to modify
+     the source for Your own purposes as long as You keep the modified
+     sources and executables for Yourself.
+
+ ** In other words: Spread hacks of my program and I'll get /really/ mad! **
+
+Note that TACSETUP requires TechnoJock's Turbo Toolkit in order to compile.
+You will have to obtain this library from somewhere else, as i cannot and will
+not distribute it.
+
+The sources are compileable by Borland Pascal 7.01 and Virtual Pascal/2 1.00
+without modifications. Everything except TACSETUP can also be compiled using
+Stony Brook Pascal+, but beware, as SBP+ outputs defective executables (trust
+me, i know perfectly well what happens).
+
+Sorry, there is no makefile for OS/2. I do not have a decent Make for OS/2.
+
+           ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+    ÄÄÄÄÄÄÄ´      Therions Archive Converter version 1.80SE       ÃÄÄÄÄÄÄÄ
+           ³                                                      ³
+    ÄÄÄÄÄÄÄ´ (c) 1992-1996 Nocturnal Productions, Copenhagen, DK. ÃÄÄÄÄÄÄÄ
+           ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
