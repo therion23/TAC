@@ -7,6 +7,8 @@ It compiles cleanly with VP/2 - if you are daring enough you can prove me wrong.
 
 Of course, it would be easy to modify for any Windows or WhateverNIX purposes, and i did have a few attempts at that, however, question is if it is really useful in present day.
 
+I simply cannot find the original documentation, nor the source for TACSETUP, so i uploaded the last config file i used myself, and you will have to figure out the rest yourselves.
+
 Copyright (C) 1992 till present day by Nocturnal Productions, Copenhagen, Denmark.
 
 All rights hereby donated to the Public Domain. Keep my name on it, if you are a Gent, but not strictly necessary - a frown from me won't get you in any court.
