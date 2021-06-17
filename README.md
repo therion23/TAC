@@ -9,4 +9,4 @@ I simply cannot find the original documentation, nor the source for TACSETUP, so
 
 Copyright (C) 1992 till present day by Nocturnal Productions, Copenhagen, Denmark.
 
-All rights hereby donated to the Public Domain. Keep my name on it, if you are a Gent, but not strictly necessary - a frown from me won't get you in any court.
+All rights hereby donated to the Public Domain. Keep my name on it, if you are a Gent, but not strictly necessary - a frown from me won't get you into any court.
